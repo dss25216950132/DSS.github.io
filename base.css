@@ -1,0 +1,58 @@
+/* é€šç”¨åŸºç¡€æ ·å¼ */
+/* åŽ»é™¤å¸¸è§æ ‡ç­¾é»˜è®¤çš„ margin å’Œ padding */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* è®¾ç½®ç½‘é¡µç»Ÿä¸€çš„å­—ä½“å¤§å°ã€è¡Œé«˜ã€å­—ä½“ç³»åˆ—ç›¸å…³å±žæ€§ */
+body {
+  font: 16px/1.5  "Microsoft Yahei",
+    "Hiragino Sans GB", "Heiti SC", "WenQuanYi Micro Hei", sans-serif;
+  color: #333;
+  background-color: #fff;
+}
+
+/* åŽ»é™¤åˆ—è¡¨é»˜è®¤æ ·å¼ */
+ul,
+ol {
+  list-style: none;
+}
+
+/* åŽ»é™¤é»˜è®¤çš„å€¾æ–œæ•ˆæžœ */
+em,
+i {
+  font-style: normal;
+}
+
+/* åŽ»é™¤aæ ‡ç­¾é»˜è®¤ä¸‹åˆ’çº¿ï¼Œå¹¶è®¾ç½®é»˜è®¤æ–‡å­—é¢œè‰² */
+a {
+  text-decoration: none;
+  color: #333;
+}
+
+/* è®¾ç½®imgçš„åž‚ç›´å¯¹é½æ–¹å¼ä¸ºå±…ä¸­å¯¹é½ï¼ŒåŽ»é™¤imgé»˜è®¤ä¸‹é—´éš™ */
+img {
+  width: 100%;
+  height: 100%;
+  vertical-align: middle;
+}
+
+/* åŽ»é™¤inputé»˜è®¤æ ·å¼ */
+input {
+  border: none;
+  outline: none;
+  color: #333;
+}
+
+/* æ¸…æ¥šæ ‡é¢˜æ ‡ç­¾çš„å­—ä½“åŠ ç²—æ•ˆæžœ */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 400;
+}
+
